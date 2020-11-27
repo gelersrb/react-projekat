@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a19e3691-c5a6-4965-8a72-44b1c61ac5b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gPrwR4G7gpoz2wSVwFEepJ3TiH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\DIPLOMSKI RAD\diplomskirad\src\images" />
+      <recent name="C:\Users\User\Desktop\DIPLOMSKI RAD\diplomskirad\src\components" />
+      <recent name="C:\Users\User\diplomskirad\src\components" />
+      <recent name="C:\Users\User\diplomskirad\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\DIPLOMSKI RAD\diplomskirad\src\images" />
+      <recent name="C:\Users\User\Desktop\DIPLOMSKI RAD\diplomskirad\src\components" />
+      <recent name="C:\Users\User\diplomskirad\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JSX.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/JSX.js" working-dir="$PROJECT_DIR$/src/components">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.JSX.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a19e3691-c5a6-4965-8a72-44b1c61ac5b1" name="Default Changelist" comment="" />
+      <created>1598027308289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598027308289</updated>
+      <workItem from="1598027314886" duration="5241000" />
+      <workItem from="1598374004175" duration="16211000" />
+      <workItem from="1598444519885" duration="2102000" />
+      <workItem from="1598472401019" duration="8807000" />
+      <workItem from="1598541500297" duration="2683000" />
+      <workItem from="1598631979760" duration="1470000" />
+      <workItem from="1598733987584" duration="1056000" />
+      <workItem from="1598797574610" duration="15160000" />
+      <workItem from="1598900631130" duration="4494000" />
+      <workItem from="1598967839135" duration="9226000" />
+      <workItem from="1599055612373" duration="11257000" />
+      <workItem from="1599079585502" duration="9958000" />
+      <workItem from="1599257235747" duration="8700000" />
+      <workItem from="1599493131707" duration="2111000" />
+      <workItem from="1599593645071" duration="3009000" />
+      <workItem from="1599687156490" duration="5306000" />
+      <workItem from="1599773881556" duration="9177000" />
+      <workItem from="1599846730987" duration="741000" />
+      <workItem from="1599847514267" duration="1275000" />
+      <workItem from="1599850564338" duration="4669000" />
+      <workItem from="1599860437781" duration="72000" />
+      <workItem from="1599860548351" duration="193000" />
+      <workItem from="1599860789073" duration="908000" />
+      <workItem from="1599861757239" duration="638000" />
+      <workItem from="1599862447497" duration="66000" />
+      <workItem from="1599918443877" duration="16241000" />
+      <workItem from="1599950986853" duration="113000" />
+      <workItem from="1600123172592" duration="5560000" />
+      <workItem from="1600201648186" duration="1306000" />
+      <workItem from="1600294984520" duration="1644000" />
+      <workItem from="1600616389298" duration="2874000" />
+      <workItem from="1600642237657" duration="2681000" />
+      <workItem from="1600698791699" duration="3166000" />
+      <workItem from="1600775154073" duration="5777000" />
+      <workItem from="1600892820564" duration="8010000" />
+      <workItem from="1600988939122" duration="1708000" />
+      <workItem from="1601219153456" duration="2478000" />
+      <workItem from="1601303897455" duration="4766000" />
+      <workItem from="1601487741053" duration="14054000" />
+      <workItem from="1601578098766" duration="8248000" />
+      <workItem from="1601649642627" duration="5651000" />
+      <workItem from="1601734733836" duration="1822000" />
+      <workItem from="1602024564645" duration="2066000" />
+      <workItem from="1602197440938" duration="983000" />
+      <workItem from="1602200519132" duration="1978000" />
+      <workItem from="1602204389578" duration="3268000" />
+      <workItem from="1602264099203" duration="15750000" />
+      <workItem from="1602343219710" duration="6783000" />
+      <workItem from="1602361681086" duration="5087000" />
+      <workItem from="1602367816995" duration="586000" />
+      <workItem from="1602369932233" duration="4181000" />
+      <workItem from="1602605730959" duration="2594000" />
+      <workItem from="1602628128703" duration="981000" />
+      <workItem from="1602704486894" duration="2224000" />
+      <workItem from="1602949395899" duration="1901000" />
+      <workItem from="1603151113733" duration="7290000" />
+      <workItem from="1603310717866" duration="13516000" />
+      <workItem from="1603410130872" duration="8555000" />
+      <workItem from="1603560853186" duration="275000" />
+      <workItem from="1603917572469" duration="267000" />
+      <workItem from="1603984658385" duration="4141000" />
+      <workItem from="1603990864079" duration="524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

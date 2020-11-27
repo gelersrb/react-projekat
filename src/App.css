@@ -1,0 +1,197 @@
+
+/*Navbar*/
+
+
+
+.color-nav{
+  background: #242424;
+    z-index: 1;
+}
+
+.logo{
+  margin-top: 2px;
+  margin-left: 25px;
+}
+
+.ml-auto{
+  margin-right: 30px;
+  text-transform: uppercase;
+  padding:  7px 13px;
+  border-radius: 3px;
+    margin-bottom: 4px;
+}
+
+
+
+
+
+/*Home Page*/
+
+.naslov{text-decoration: none}
+
+.naslov:hover{
+    color: #383838 ;
+}
+
+.home-section{
+    margin-top:-15%;
+    padding: 10%;
+}
+.home-section h4{
+    color: #61dafb;
+    font-weight: bold;
+    font-size: 30px;
+}
+.home-section .subheading{
+    color: grey;
+    font-size: 20px;
+}
+.home-section .row
+{
+    margin-top: 13%;
+}
+.how-img
+{
+    text-align: center;
+}
+
+.rotate {
+    animation: rotation 15s infinite linear;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+.text{
+    position: relative;
+    top: 50%;
+    width: 24em;
+    margin: 0 auto;
+    border-right: 2px solid rgba(255,255,255,.75);
+    font-size: 180%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%);
+}
+
+/* Animation */
+.anim-typewriter{
+    animation: typewriter 4s steps(44) 1s 1 normal both,
+    blinkTextCursor 500ms steps(44) infinite normal;
+    -webkit-animation: typewriter 5s linear infinite;
+    color: #61dafb;
+}
+
+@keyframes typewriter{
+    from{width: 0;}
+    to{width: 20em;}
+}
+
+
+.prikaz{
+    position: relative;
+    top: 40%;
+    right: 20%;
+    width: 24em;
+    font-size: 180%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    color: grey;
+}
+
+/*JSX Page*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.sidebar {
+    width: 30%;
+    position: fixed;
+    display: block;
+    overflow-y: scroll;
+
+}
+
+.wrapper{
+    display: flex;
+    position: relative;
+}
+
+.wrapper .sidebar{
+    width: 253px;
+    height: 100%;
+    background: #E8E8E8;
+    right: 0px;
+    top: 1px;
+}
+
+.wrapper .sidebar h2{
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.wrapper .sidebar ul li{
+    padding: 15px;
+    border-bottom: 1px solid #696969;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    border-top: 1px solid rgba(255,255,255,0.05);
+}
+
+.wrapper .sidebar ul li a{
+    color: black;
+    display: block;
+    cursor: pointer;
+}
+
+.wrapper .sidebar ul li:hover a{
+    color: #61dafb;
+    text-decoration: none;
+}
+
+.wrapper .main_content{
+    width: 100%;
+    margin-left: 110px;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-bottom: 1px;
+}
+
+.up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+
+
