@@ -83,7 +83,7 @@ export default function Events() {
 
             <div className="sidebar">
                 <img src={logo} style={stilLogo} alt="" />
-                <h2 style={{color: '#383838', fontSize: 22}}>REACT DOGAĐAJI</h2>
+                <h2 style={{color: '#383838', fontSize: 22}}>DOGAĐAJI</h2>
                 <ul>
                     <li><Link to='rukovanjeDogadjajima' smooth={true} duration={1000} offset={-15}>Rukovanje događajima</Link></li>
                     <li><Link to='prosledjivanjeArgumenata' smooth={true} duration={1000} offset={-15}>Prosleđivanje argumenata događajima</Link></li>
